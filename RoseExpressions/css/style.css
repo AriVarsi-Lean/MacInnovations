@@ -341,7 +341,7 @@ work section
 about section
 ========================================================================== */
 #about {
-  background: #3B3B3B;
+  background: deeppink;  /*#3B3B3B*/
   color: #ffffff;
 }
 .nav-tabs {
