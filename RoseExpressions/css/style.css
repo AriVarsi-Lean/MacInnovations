@@ -211,7 +211,7 @@ preloader section
 navigation section
 ========================================================================== */
 .custom-navbar {
-    background: #4B4B4B;
+    background: deeppink;/*#4B4B4B;*/
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
@@ -259,7 +259,7 @@ navigation section
          }
     .custom-navbar.top-nav-collapse {
             padding: 8px;
-            background: #4B4B4B;
+            background: deeppink;/*#4B4B4B;*/
         }
 }
 
